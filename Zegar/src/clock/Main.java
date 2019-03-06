@@ -111,6 +111,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		oblicz(2,3,9,5);
+		oblicz(2,3,9,3);
+		oblicz(2,2,1,5);
+		oblicz(2,3,3,5);
+		
 	}
 
 }
